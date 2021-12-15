@@ -1,3 +1,4 @@
 # DataAnalysis-With-Pandas
 
-This data set was created by web scraping and has no real value. This notebook is for an educational purpose only, to show you how to use pandas python tricks and methods.
+Car data from 2011 to 2021  has been collected from AutoScout24 which is one of the largest Europe's car market for new and used cars. Data was collected and scraped automatically and is public on Kaggle.com. 
+
